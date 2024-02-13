@@ -1,5 +1,7 @@
 ## CIS Benchmark
 
+<pre>
+  
 Center for Internet Security® (CIS) is an organization which provides various benchmark reports and standards regarding the security aspects of computer systems.
 
 Apart from the benchmark reports, CIS releases security hardened VM Images for different cloud vendors, which you can purchase from their market places. In AWS marketplace, such a CIS Hardened AMI would cost approximately $15 per month per EC2 instance in addition to the regular EC2 pricing.
@@ -122,3 +124,4 @@ https://github.com/thilinaba/aws-cis-ami
 Ending…
 
 If you encounter any issue through out this process, let me know in the comments.
+</pre>
